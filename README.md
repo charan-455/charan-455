@@ -6,9 +6,9 @@
 - 👯 Looking to collaborate on AI solutions in Healthcare, Education and Media sectors 
 - 💼 <a href="https://charan-455.github.io/">_**Portfolio**_</a>
 - 📜 [**_Resume_**](https://drive.google.com/file/d/1nJpuKM-EdCPq-7A7vqN4snAPDUbgcSEb/view?usp=sharing)
-<!--- - 🌱 Interested in Gen AI, LLMs, NLP, Computer Vision -->
-
 <!---  
+"🌱 Interested in Gen AI, LLMs, NLP, Computer Vision"
+
 ## 💬 Ask me
   - **Python, Bash** 
   - **PyTorch, Tensorflow, ONNX, TFLite**
